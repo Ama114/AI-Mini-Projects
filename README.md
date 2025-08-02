@@ -24,7 +24,7 @@ This is my some Ai mini projects
          pip install openai python-dotenv streamlit PyPDF2
 ##### 4.Create a .env file with your OpenAI API key
 ##### 5.Run each project by copying the code  into a .py file and running:
-          python your_file.pys
+          python your_file.py
 
 
 ### 1️⃣ AI Text Summarizer
@@ -38,6 +38,6 @@ This is my some Ai mini projects
 ##### 💡Improvements
 ######  ▫️Add multiple summary styles(e.g "Execute Summary" , "Simplified for kids")
 ######  ▫️Integrate with Streamlit for a web-based UI where users can upload PDFs or paste text
-###### ▫️Support multiple languages for summaries using language-specific prompts.
-###### ▫️Add keyword extraction using libries like *spacy* or *nltk*.
+######  ▫️Support multiple languages for summaries using language-specific prompts.
+######  ▫️Add keyword extraction using libries like *spacy* or *nltk*.
           
