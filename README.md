@@ -29,4 +29,9 @@ This is my some Ai mini projects
 
 ### 1️⃣ AI Text Summarizer
 📌what it does:Summarizes long text(articles,essays,PDFs)into concise bullet points
+
+##### 🎯Features
+▫️Supports text and PDF input
+▫️Customizable summary length
+▫️Error handling for API failures
           
