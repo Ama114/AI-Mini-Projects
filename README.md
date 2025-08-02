@@ -27,6 +27,6 @@ This is my some Ai mini projects
           python your_file.pys
 
 
-##### 1️⃣ AI Text Summarizer
+### 1️⃣ AI Text Summarizer
 📌what it does:Summarizes long text(articles,essays,PDFs)into concise bullet points
           
