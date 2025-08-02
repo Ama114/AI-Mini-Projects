@@ -34,4 +34,10 @@ This is my some Ai mini projects
 ######   ▫️Supports text and PDF input
 ######   ▫️Customizable summary length
 ######   ▫️Error handling for API failures
+
+##### 💡Improvements
+######  ▫️Add multiple summary styles(e.g "Execute Summary" , "Simplified for kids")
+######  ▫️Integrate with Streamlit for a web-based UI where users can upload PDFs or paste text
+###### ▫️Support multiple languages for summaries using language-specific prompts.
+###### ▫️Add keyword extraction using libries like *spacy* or *nltk*.
           
