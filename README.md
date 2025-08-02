@@ -14,7 +14,7 @@ This is my some Ai mini projects
 ##### ▫️Basic familiarity with python and APIs
 
 ## 🔧Setup Guid
-###### 1.clone or create a project folder:
+######  1.clone or create a project folder:
           mkdir ai-mini-projects
           cd ai-mini-projects
 ###### 2.Set up a virtual environment:
