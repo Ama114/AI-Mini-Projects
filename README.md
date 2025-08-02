@@ -17,12 +17,12 @@ This is my some Ai mini projects
 #####  1.clone or create a project folder:
           mkdir ai-mini-projects
           cd ai-mini-projects
-###### 2.Set up a virtual environment:
+##### 2.Set up a virtual environment:
          python -m venv venv
          venv\Scripts\activate
-###### 3.Install dependencies:
+##### 3.Install dependencies:
          pip install openai python-dotenv streamlit PyPDF2
-###### 4.Create a .env file with your OpenAI API key
-###### 5.Run each project by copying the code  into a .py file and running:
+##### 4.Create a .env file with your OpenAI API key
+##### 5.Run each project by copying the code  into a .py file and running:
           python your_file.pys
           
