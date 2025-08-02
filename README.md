@@ -25,4 +25,8 @@ This is my some Ai mini projects
 ##### 4.Create a .env file with your OpenAI API key
 ##### 5.Run each project by copying the code  into a .py file and running:
           python your_file.pys
+
+
+##### 1️⃣ AI Text Summarizer
+📌what it does:Summarizes long text(articles,essays,PDFs)into concise bullet points
           
